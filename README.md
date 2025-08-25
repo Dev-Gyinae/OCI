@@ -8,3 +8,15 @@ OCI Networking
 VCN - Virtual Cloud Network
 RFC 1918
 vNIC
+
+VCN subnet
+
+VCN Security - Security List, Security group
+Stateful and Stateless
+
+VCN Gateways
+Service gateways, NAT, Internet, Route Table,
+
+VCN Peering - Local and Remote peering
+
+DRG - Dynamic Routing Gate
