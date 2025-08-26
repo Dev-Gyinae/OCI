@@ -20,3 +20,9 @@ Service gateways, NAT, Internet, Route Table,
 VCN Peering - Local and Remote peering
 
 DRG - Dynamic Routing Gate
+
+MultiCLoud Network Connectivity
+Site-to-Site VPN
+FastConnect
+OCI-Azure InterConnect
+Oracle DB Service fot Azure
