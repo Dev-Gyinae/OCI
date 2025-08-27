@@ -24,7 +24,17 @@ DRG - Dynamic Routing Gate
 MultiCLoud Network Connectivity
 Site-to-Site VPN
 FastConnect
-OCI-Azure InterConnect
+OCI-Azure InterConnect (
+  Scenarios: OCI VCN to Azure Vnet, Peered OCI VCNs in same region to Azure, Peered OCI VCNs in different regions to Azure, Services in oracle services network to azure.
+  ps: You cant connect on-prem environment to Azure via OCI VCN and vice versa.
+
+  Connection: Use BGP (Border Gateway Protocol) dynamic routing
+
+  - One time set up , cross-cloud connection
+)
 Oracle DB Service fot Azure
 
 IKEV1 and IKEV2
+
+
+
