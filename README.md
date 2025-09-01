@@ -37,4 +37,7 @@ Oracle DB Service fot Azure
 IKEV1 and IKEV2
 
 
+Google cloud interconnect - interconnect (google) + fastconnect (oci)
+dedicated connectivity, high bandwith, fast dedicated connectivity, high bandwith, no egress fees
 
+Database Services
